@@ -3,9 +3,11 @@ The dataset of the paper "Relightable Neural Human Assets from Multi-view Gradie
 
 ### Relightable Neural Human Assets from Multi-view Gradient Illuminations
 
-Taotao Zhou\*, Kai He\*, Di Wu\*, Teng Xu, Qixuan Zhang, Kuixiang Shao, Wenzheng Chen, Lan Xu, Jingyi Yu. (*equal contribution) CVPR 2023
+Taotao Zhou\*, Kai He\*, Di Wu\*, Teng Xu, Qixuan Zhang, Kuixiang Shao, Wenzheng Chen, Lan Xu, Jingyi Yu. 
 
-[[Project Page]](https://miaoing.github.io/RNHA/)
+(*equal contribution) CVPR 2023
+
+[[Project Page]](https://miaoing.github.io/RNHA/) [[Paper Link]](https://arxiv.org/pdf/2212.07648.pdf)
 
 ![dataset_description](./imgs/dataset_description.png)
 
