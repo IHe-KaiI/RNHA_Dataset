@@ -1,7 +1,7 @@
 # 3D Human Dataset
 The dataset of the paper "Relightable Neural Human Assets from Multi-view Gradient Illuminations".
 
-### Relightable Neural Human Assets from Multi-view Gradient Illuminations
+## Relightable Neural Human Assets from Multi-view Gradient Illuminations
 
 Taotao Zhou\*, Kai He\*, Di Wu\*, Teng Xu, Qixuan Zhang, Kuixiang Shao, Wenzheng Chen, Lan Xu, Jingyi Yu. 
 
@@ -11,7 +11,7 @@ Taotao Zhou\*, Kai He\*, Di Wu\*, Teng Xu, Qixuan Zhang, Kuixiang Shao, Wenzheng
 
 ![dataset_description](./imgs/dataset_description.png)
 
-#### Description
+### Description
 
 We have currently uploaded 100 sample cases of data with different people and different motions. We will be uploading all the data (2K+) soon. The file structure is as follows:
 
@@ -31,7 +31,7 @@ We have currently uploaded 100 sample cases of data with different people and di
 
 
 
-#### Download dataset
+### Download dataset
 
 The dataset is available on [OneDrive](https://shanghaitecheducn-my.sharepoint.com/:f:/g/personal/hekai_shanghaitech_edu_cn/EkwUhF_qoW1CpipgeXwLZxcBMa8clsdGhdR4ub-1f5cfIw?e=5ej5FE) and is encrypted with a password. Please carefully read, fill in the [license form](./license.pdf), and send it to Lan Xu (xulan1@shanghaitech.edu.cn) and cc MARS Lab (shanghaitechmars@foxmail.com) to request the password.
 
@@ -39,7 +39,7 @@ By requesting the password to access a protected system or content, you acknowle
 
 
 
-#### Citation
+### Citation
 
 If you use this dataset for your research, please cite our paper:
 
