@@ -36,6 +36,7 @@ We have currently uploaded 100 sample cases of data with different people and di
 The dataset is available on [OneDrive](https://shanghaitecheducn-my.sharepoint.com/:f:/g/personal/hekai_shanghaitech_edu_cn/EkwUhF_qoW1CpipgeXwLZxcBMa8clsdGhdR4ub-1f5cfIw?e=5ej5FE) and is encrypted with a password. Please carefully read, fill in the [license form](./license.pdf), and send it to Lan Xu (xulan1@shanghaitech.edu.cn) and cc MARS Lab (shanghaitechmars@foxmail.com) to request the password.
 
 Notes:
+
 (1) Students are **NOT** eligible to be a recipient.  If you are a student, please ask your supervisor to make a request.
 
 (2) Once the license agreement is signed, we will give access to the data.
