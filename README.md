@@ -37,6 +37,7 @@ The dataset is available on [OneDrive](https://shanghaitecheducn-my.sharepoint.c
 
 Notes:
 (1) Students are **NOT** eligible to be a recipient.  If you are a student, please ask your supervisor to make a request.
+
 (2) Once the license agreement is signed, we will give access to the data.
 
 By requesting the password to access a protected system or content, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions. This agreement constitutes a legal and binding agreement between you and the provider of the protected system or content. The Multidisciplinary Artificial Reality Studio (MARS) of ShanghaiTech University is the only owner of all intellectual property rights, including copyright, of 3D HUMAN DATASET, and MARS reserves the right to terminate your access to the dataset at any time.
