@@ -40,6 +40,7 @@ By requesting the password to access a protected system or content, you acknowle
 Notes:
 
 (1) Students are **NOT** eligible to be a recipient.  If you are a student, please ask your supervisor to make a request.
+
 (2) Once the license agreement is signed, we will give access to the data.
 
 ### Citation
