@@ -15,18 +15,29 @@ Taotao Zhou\*, Kai He\*, Di Wu\*, Teng Xu, Qixuan Zhang, Kuixiang Shao, Wenzheng
 
 We have currently uploaded 100 sample cases of data with different people and different motions. We will be uploading all the data (2K+) soon. The file structure is as follows:
 
-- 001 (Person index)
-  - 1 (Motion index)
-    - p_01.JPG (Positive gradient light)
-    - p_01_1.JPG (Negative gradient light)
-    - p_01_2.JPG (Full on light)
-    - p_02.JPG
-    - p_02_1.JPG
-    - p_02_2.JPG
-    - ... (p\_[Camera index].JPG, p\_[Camera index]\_1.JPG, and p\_[Camera index]_2.JPG are a group of images from one camera)
-  - 2
-  - ...
-- 002
+- 8fuu431r1yviisw4.zip (Random filename)
+  - full_on (Full on light)
+    - 00000.jpg ([Camera index].jpg)
+    - ...
+    - 00031.jpg 
+  - pos (Positive gradient light)
+    - 00000.jpg
+    - ...
+    - 00031.jpg
+  - neg (Negative gradient light)
+    - 00000.jpg
+    - ...
+    - 00031.jpg
+  - mask (Mask)
+    - 00000.jpg
+    - ...
+    - 00031.jpg
+  - normal_alpha (Estimated normal with alpha mask channel)
+    - 00000.jpg
+    - ...
+    - 00031.jpg
+  - transforms.json
+- 8fuu431r2rlnjhv6.zip
 - ...
 
 
