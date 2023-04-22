@@ -32,7 +32,7 @@ We have currently uploaded 100 sample cases of data with different people and di
 
 *The normal maps are calculated within UltraStage’s world coordinate system, which is consistent with the camera and lighting systems. Here is the reference coordinate system of world space normal maps. For more coordinate system detail, please see our Supplementary Materials.*
 
-<img src="imgs/normal_space.png" alt="normal_space" style="zoom:48%;" />
+<img src="imgs/normal_space.png" alt="normal_space" style="zoom:20%;" />
 
 ### Download our dataset
 
