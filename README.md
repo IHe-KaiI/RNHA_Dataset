@@ -51,12 +51,13 @@ Notes:
 If you use this dataset for your research, please cite our paper:
 
 ```
- @article{zhou2022relightable,
-      title={Relightable Neural Human Assets from Multi-view Gradient Illuminations},
-      author={Zhou, Taotao and He, Kai and Wu, Di and Xu, Teng and Zhang, Qixuan and Shao, Kuixiang and Chen, Wenzheng and Xu, Lan and Yi, Jingyi},
-      journal={arXiv preprint arXiv:2212.07648},
-      year={2022}
-    }
+  @inproceedings{zhou2023relightable,
+  title={Relightable Neural Human Assets from Multi-view Gradient Illuminations},
+  author={Zhou, Taotao and He, Kai and Wu, Di and Xu, Teng and Zhang, Qixuan and Shao, Kuixiang and Chen, Wenzheng and Xu, Lan and Yu, Jingyi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4315--4327},
+  year={2023}
+}
 ```
 
 
